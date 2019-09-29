@@ -16,13 +16,17 @@ body
 
 h1,h2,h3,h4,h5,h6
 {
-	color: #fff !important;
-	text-shadow: 1px 1px #000000 !important;
+  color: #fff !important;
+  text-shadow: 1px 1px #000000 !important;
 }
 
 p
 {
-	color: #c0c0c0 !important;
-	text-shadow: 1px 1px #000000 !important;
+  color: #c0c0c0 !important;
+  text-shadow: 1px 1px #000000 !important;
 
+}
+.nav-spacer
+{
+  min-height: 200px;
 }
